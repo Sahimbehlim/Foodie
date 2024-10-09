@@ -1,6 +1,6 @@
 # Foodie Landing Page
 
-A foodie landing page created using HTML, CSS, and JavaScript.
+A foodie landing page created using HTML, CSS, and Bootstrap.
 
 - Page structured using HTML
 - Designed using CSS
