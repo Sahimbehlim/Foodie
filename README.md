@@ -8,6 +8,5 @@
 • Images 
 • User-friendly interface
 
-# Live Demo
-
+## Live Demo
 https://sahimbehlim.github.io/Foodie/
