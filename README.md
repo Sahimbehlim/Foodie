@@ -1,10 +1,13 @@
-# Foodie
+# Foodie Landing Page
+
 • Page Structured Using HTML
 • Designed Using CSS
 • Responsive Using Bootstrap
 • JavaScript DOM 
 • Color Combinations
 • Images 
-• Good Looking UI
+• User-friendly interface
 
-Link : https://sahimbehlim.github.io/Foodie/
+# Live Demo
+
+https://sahimbehlim.github.io/Foodie/
