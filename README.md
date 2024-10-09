@@ -1,14 +1,17 @@
 # Foodie Landing Page
 
-A visually appealing landing page created using HTML, CSS, and JavaScript.
+A foodie landing page created using HTML, CSS, and JavaScript.
 
-• Page Structured Using HTML
-• Designed Using CSS
-• Responsive Using Bootstrap
-• JavaScript DOM 
-• Color Combinations
-• Images 
-• User-friendly interface
+## Features
+
+- Page structured using HTML
+- Designed using CSS
+- Responsive design using Bootstrap
+- Interactive elements with JavaScript DOM manipulation
+- Thoughtful color combinations
+- Engaging images
+- User-friendly interface
 
 ## Live Demo
-https://sahimbehlim.github.io/Foodie/
+
+[View Live Demo](https://sahimbehlim.github.io/Foodie/)
